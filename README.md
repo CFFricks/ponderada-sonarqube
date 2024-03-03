@@ -1,9 +1,15 @@
 # ponderada-sonarqube
 
 # SonarQube
-O sonar é uma plataforma utilizada por desenvolvedores de software para medir, avaliar e aprimorar a qualidade do código-fonte. A ferramenta permite identificar e corrigir problemas de forma proativa, melhorar a manutenção e assegurar a aderência a padrões de código. 
+O sonarqube é uma plataforma utilizada por desenvolvedores de software para medir, avaliar e aprimorar a qualidade do código-fonte. A ferramenta permite identificar e corrigir problemas de forma proativa, melhorar a manutenção e assegurar a aderência a padrões de código. 
 Incorporando o SonarQube ao ciclo de vida do desenvolvimento de software, as equipes podem aprimorar significativamente a qualidade do código, resultando em aplicações mais seguros, robustos e de fácil manutenção 
+## Conceitos Principais
 
+### Qualidade do Código
+A qualidade do código é uma medida que reflete quão limpo, eficiente e seguro o código-fonte é. Um código de alta qualidade é mais fácil de ler, entender, testar e manter. SonarQube ajuda a identificar problemas que afetam a qualidade do código, como bugs e vulnerabilidades de segurança
+
+### Análise Estática
+Sonarqube realiza análise estática do código-fonte. Isso significa que ele examina o código sem executá-lo, identificando padrões que podem indicar problemas, permitindo detectar e corrigir problemas precocemente no ciclo de desenvolvimento.
 
 
 ## Vou fazer um passo a passo sobre a configuração do SonarQube:
